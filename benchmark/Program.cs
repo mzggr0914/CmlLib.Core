@@ -1,4 +1,4 @@
-﻿using BenchmarkDotNet.Running;
+using BenchmarkDotNet.Running;
 using CmlLib.Core.Benchmarks;
 
 //Console.WriteLine("Hello, World!");

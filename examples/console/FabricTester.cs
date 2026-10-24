@@ -1,4 +1,4 @@
-﻿using CmlLib.Core;
+using CmlLib.Core;
 using CmlLib.Core.ModLoaders.FabricMC;
 
 namespace CmlLibCoreSample;

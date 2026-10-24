@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.Files;
+using CmlLib.Core.Files;
 using CmlLib.Core.Internals;
 using CmlLib.Core.Java;
 using CmlLib.Core.Rules;

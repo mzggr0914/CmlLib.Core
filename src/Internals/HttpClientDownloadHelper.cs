@@ -1,4 +1,4 @@
-﻿namespace CmlLib.Core.Internals;
+namespace CmlLib.Core.Internals;
 
 // To implement System.Net.WebClient.DownloadFileTaskAsync
 // https://source.dot.net/#System.Net.WebClient/System/Net/WebClient.cs,c2224e40a6960929

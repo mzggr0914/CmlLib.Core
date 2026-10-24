@@ -1,4 +1,4 @@
-﻿namespace CmlLib.Core.VersionMetadata;
+namespace CmlLib.Core.VersionMetadata;
 
 // Sort IVersionMetadata
 // TODO: measure performance and optimizing

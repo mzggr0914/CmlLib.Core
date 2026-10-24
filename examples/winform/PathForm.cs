@@ -1,4 +1,4 @@
-﻿using CmlLib.Core;
+using CmlLib.Core;
 
 namespace CmlLibWinFormSample
 {

@@ -1,4 +1,4 @@
-﻿namespace CmlLibWinFormSample
+namespace CmlLibWinFormSample
 {
     partial class PathForm
     {

@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.Internals;
+using CmlLib.Core.Internals;
 
 namespace CmlLib.Core.Test;
 

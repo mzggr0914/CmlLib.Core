@@ -1,4 +1,4 @@
-﻿namespace CmlLib.Core;
+namespace CmlLib.Core;
 
 public static class MojangServer
 {

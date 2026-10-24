@@ -1,4 +1,4 @@
-﻿namespace CmlLib.Core;
+namespace CmlLib.Core;
 
 // maven naming convention
 // https://maven.apache.org/guides/mini/guide-naming-conventions.html

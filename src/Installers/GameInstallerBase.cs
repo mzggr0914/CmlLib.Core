@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.Internals;
+using CmlLib.Core.Internals;
 using CmlLib.Core.Files;
 using System.Diagnostics;
 

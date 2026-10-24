@@ -1,4 +1,4 @@
-﻿using System.Text.Json;
+using System.Text.Json;
 using CmlLib.Core.Internals;
 
 namespace CmlLib.Core.ModLoaders.FabricMC;

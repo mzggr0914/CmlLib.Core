@@ -1,4 +1,4 @@
-﻿using CmlLib.Core;
+using CmlLib.Core;
 using System.Diagnostics;
 using System.Reflection;
 using System.Runtime.InteropServices;

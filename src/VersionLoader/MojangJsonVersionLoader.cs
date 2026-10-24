@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.VersionMetadata;
+using CmlLib.Core.VersionMetadata;
 using System.Text.Json;
 using CmlLib.Core.Internals;
 

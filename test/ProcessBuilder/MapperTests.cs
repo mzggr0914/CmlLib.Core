@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.ProcessBuilder;
+using CmlLib.Core.ProcessBuilder;
 
 namespace CmlLib.Core.Test;
 

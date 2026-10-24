@@ -1,4 +1,4 @@
-﻿using System.Text.Json;
+using System.Text.Json;
 using CmlLib.Core.Files;
 using CmlLib.Core.Internals;
 using CmlLib.Core.Rules;

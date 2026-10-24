@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.Version;
+using CmlLib.Core.Version;
 
 namespace CmlLib.Core.VersionMetadata;
 

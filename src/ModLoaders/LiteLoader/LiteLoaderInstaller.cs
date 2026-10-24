@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.CommandParser;
+using CmlLib.Core.CommandParser;
 using CmlLib.Core.Files;
 using CmlLib.Core.Internals;
 using CmlLib.Core.ProcessBuilder;

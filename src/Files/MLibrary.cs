@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.Files;
+using CmlLib.Core.Files;
 using CmlLib.Core.Rules;
 
 namespace CmlLib.Core.Version;

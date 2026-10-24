@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.Internals;
+using CmlLib.Core.Internals;
 using CmlLib.Core.Files;
 
 namespace CmlLib.Core.Tasks;

@@ -1,4 +1,4 @@
-﻿namespace CmlLib.Core.VersionMetadata;
+namespace CmlLib.Core.VersionMetadata;
 
 /// <summary>
 /// Represent metadata where the actual version data is in local file

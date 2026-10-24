@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.Auth;
+using CmlLib.Core.Auth;
 using CmlLib.Core.Rules;
 using CmlLib.Core.Version;
 

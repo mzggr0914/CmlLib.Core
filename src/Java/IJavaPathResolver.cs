@@ -1,4 +1,4 @@
-﻿using CmlLib.Core.Rules;
+using CmlLib.Core.Rules;
 
 namespace CmlLib.Core.Java;
 

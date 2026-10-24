@@ -1,4 +1,4 @@
-﻿namespace CmlLib.Core.VersionMetadata;
+namespace CmlLib.Core.VersionMetadata;
 
 public class MojangVersionMetadata : JsonVersionMetadata
 {

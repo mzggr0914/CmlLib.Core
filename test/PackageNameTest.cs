@@ -1,4 +1,4 @@
-﻿namespace CmlLib.Core.Test;
+namespace CmlLib.Core.Test;
 
 public class PackageNameTest
 {

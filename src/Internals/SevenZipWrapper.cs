@@ -1,4 +1,4 @@
-﻿namespace CmlLib.Core.Internals;
+namespace CmlLib.Core.Internals;
 
 internal static class SevenZipWrapper
 {
